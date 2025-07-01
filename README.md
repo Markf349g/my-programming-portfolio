@@ -77,7 +77,8 @@ I am a dedicated software developer with a passion for solving complex problems 
 
 Feel free to reach out if you’d like to collaborate or learn more about my work:
 
-- 📱 Phone:      +66971637171
-- ✉️ Email:     mark.vizzhachiy@gmail.com
+- 📱 Phone:      [+66 97 163 7171](tel:+66971637171)
+- ✉️ Email:     [mark.vizzhachiy@gmail.com](mailto:mark.vizzhachiy@gmail.com)
 - 🌐 LinkedIn:  [Mark Vizzhachiy](www.linkedin.com/in/mark-v-28033536b)  
 - 🐙 GitHub:    [Mark Vizzhachiy](https://github.com/Markf349g)  
+- 🦊 GitLab: [Mark Vizzhachiy](https://gitlab.com/mark.vizzhachiy) 
