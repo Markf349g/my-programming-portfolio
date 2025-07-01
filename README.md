@@ -106,6 +106,7 @@ Feel free to reach out if you’d like to collaborate or learn more about my wor
 - 🌐 LinkedIn: [Mark Vizzhachiy](https://www.linkedin.com/in/mark-v-28033536b)
 - 📺 YouTube: [@Markf349g](https://www.youtube.com/@Markf349g)
 - ❓ Stack Overflow: [Markf349g](https://stackoverflow.com/users/30783672/markf349g)
+- 🧠 Stack Exchange Meta: [Markf349g](https://meta.stackexchange.com/users/1774543/markf349g)
 - ✖️ X / Twitter: [@markf349g](https://x.com/markf349g)
-- 💼 Freelancer: [Markf349g](https://www.freelancer.com/u/Markf349g?frm=Markf349g&sb=t)
+- 🧑‍💻 Freelancer: [Markf349g](https://www.freelancer.com/u/Markf349g?frm=Markf349g&sb=t)
 - 💼 Upwork: [Markf349g](https://www.upwork.com/freelancers/~01721832aea465bde6?mp_source=share)
