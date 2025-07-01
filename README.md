@@ -1,7 +1,7 @@
 # 📚 My Programming Portfolio 🌐
 
 <p align="center">
-  <img src="images/profile-banner.png" alt="Profile Banner" width="800" />
+  <img src="images/profile-banner.png" alt="Profile Banner" width="200" height="200" />
 </p>
 
 ---
