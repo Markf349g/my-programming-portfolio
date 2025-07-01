@@ -44,34 +44,48 @@ I am a dedicated software developer with a passion for solving complex problems 
   </p>
 
 - 🔍 **Steam Game Scraper**  
-  A web scraper using Selenium & BeautifulSoup4 to collect and analyze Steam game data.  
-  ![Steam Scraper](images/steam_scraper.png)
+  A web scraper using Selenium & BeautifulSoup4 to collect and analyze Steam game data.
+  <p>
+    <img src="images/steam_scraper.png" alt="Steam Scraper" width="400" />
+  </p>
 
 - 🎮 **Space Invaders Clone**  
-  A 2D arcade recreation built with Pygame, emulating the classic Space Invaders gameplay.  
-  ![Space Invaders](images/space_invaders.png)
+  A 2D arcade recreation built with Pygame, emulating the classic Space Invaders gameplay.
+  <p>
+    <img src="images/space_invaders.png" alt="Space Invaders" width="400" />
+  </p>
 
 - 🔏 **Encryption Desktop Application**  
-  A secure desktop tool for encrypting messages via steganography techniques.  
-  ![Encryption App](images/encryption_app.png)
+  A secure desktop tool for encrypting messages via steganography techniques.
+  <p>
+    <img src="images/encryption_app.png" alt="Encryption App" width="400" />
+  </p>
 
 ### C++ Projects
 - 🖼 **Windows Widgets Library**  
-  A lightweight 2D graphics library built on the Windows API.  
-  ![Widgets Library](images/widgets_library.png)
+  A lightweight 2D graphics library built on the Windows API.
+  <p>
+    <img src="images/widgets_library.png" alt="Widgets Library" width="400" />
+  </p>
 
 - 🏎 **Racing Game**  
-  A fast-paced 2D racing game developed with SFML.  
-  ![Racing Game](images/racing_game.png)
+  A fast-paced 2D racing game developed with SFML.
+  <p>
+    <img src="images/racing_game.png" alt="Racing Game" width="400" />
+  </p>
 
 - 📂 **Metadata Corrector**  
-  A utility for editing and correcting file timestamps with ease.  
-  ![Metadata Corrector](images/metadata_corrector.png)
+  A utility for editing and correcting file timestamps with ease.
+  <p>
+    <img src="images/metadata_corrector.png" alt="Metadata Corrector" width="400" />
+  </p>
 
 ### Go Projects
 - 🌡 **Proxmox Temperature Sensors → MQTT**  
-  A service that publishes Proxmox host temperature data to MQTT brokers for HomeAssistant integration.  
-  ![Proxmox MQTT](images/proxmox_mqtt.png)
+  A service that publishes Proxmox host temperature data to MQTT brokers for HomeAssistant integration.
+  <p>
+    <img src="images/proxmox_mqtt.png" alt="Proxmox MQTT" width="400" />
+  </p>
 
 ---
 
