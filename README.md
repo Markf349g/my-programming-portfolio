@@ -17,7 +17,7 @@ I am a dedicated software developer with a passion for solving complex problems 
 ### 🐍 Python
 - **Web Development:** Django, Flask  
 - **Web Scraping:** Selenium, BeautifulSoup4  
-- **Desktop Apps:** PyQt6  
+- **Desktop Apps:** PySide6  
 - **Game Development:** Pygame  
 - **Steganography Projects**
 
