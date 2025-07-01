@@ -39,7 +39,7 @@ I am a dedicated software developer with a passion for solving complex problems 
 ### Python Projects
 - 🚀 **Task Management Web App**  
   A Flask-powered web application to manage tasks and deadlines efficiently.  
-  <p align="center">
+  <p>
     <img src="images/task_manager.png" alt="Task Manager" width="400" />
   </p>
 
