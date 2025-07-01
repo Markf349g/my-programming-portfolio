@@ -39,7 +39,9 @@ I am a dedicated software developer with a passion for solving complex problems 
 ### Python Projects
 - 🚀 **Task Management Web App**  
   A Flask-powered web application to manage tasks and deadlines efficiently.  
-  ![Task Manager](images/task_manager.png)
+  <p align="center">
+    <img src="images/task_manager.png" alt="Profile Banner" width="200" height="200" />
+  </p>
 
 - 🔍 **Steam Game Scraper**  
   A web scraper using Selenium & BeautifulSoup4 to collect and analyze Steam game data.  
