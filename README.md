@@ -112,5 +112,7 @@ I am a dedicated software developer with a passion for solving complex problems 
 - 💼 **Upwork**: [Markf349g](https://www.upwork.com/freelancers/~01721832aea465bde6?mp_source=share)
 - 🧑‍💻 **Freelancer**: [Markf349g](https://www.freelancer.com/u/Markf349g?frm=Markf349g&sb=t)
 - 🛠️ **LaborX**: [Markf349g](https://laborx.com/customers/users/id388396?ref=388396)
+- 💼 **Fiverr**: [@markv1426](https://www.fiverr.com/markv1426)
+- 📘 **Facebook**: [Mark Vizzhachiy](https://www.facebook.com/profile.php?id=61577849588844)
 - 🆔 **ORCID**: [0009-0005-4166-3841](https://orcid.org/0009-0005-4166-3841)
 - 💬 **Discord**: `1038754229541670933`
